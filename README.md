@@ -7,3 +7,5 @@ Esse é um projeto bem simples que consiste em uma badge feita com HTML, CSS e J
 https://www.figma.com/community/file/1031698737363668691
 #### Resultado do Projeto:
 https://vinebarbosa.github.io/badge-do-while-2021/
+
+Made with :purple_heart: by Vine
