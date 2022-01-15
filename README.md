@@ -1,4 +1,9 @@
-### Badge do evento Do While 2021
-Esse é um projeto bem simples que consiste em uma badge feita apenas com HTML, CSS e JavaScript desenvolvida no evento Do While 2021. Essa badge possui versões mobile e web. O layout da página pode ser acessado em https://www.figma.com/community/file/1031698737363668691
+# Badge do evento Do While 2021
+![](https://i.imgur.com/kwNLk7Y.png)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FB8Kw531B0UkuG0yL2gfPgg%2F%255BNLW-Heat---Mission%253A-Origin%255D-DoWhile2021-(Community)%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+Esse é um projeto bem simples que consiste em uma badge feita com HTML, CSS e JavaScript desenvolvida no evento Do While 2021. Essa badge foi pensada para ser exibida tanto em um desktop quanto um celular. Abaixo estão aguns links úteis:
+
+#### Layout do Projeto
+https://www.figma.com/community/file/1031698737363668691
+#### Resultado do Projeto:
+https://vinebarbosa.github.io/badge-do-while-2021/
